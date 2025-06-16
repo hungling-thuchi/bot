@@ -1,0 +1,13 @@
+# Thư viện chính cho Discord Bot
+discord.py==2.3.2          # Bao gồm discord.ext.commands
+
+# Làm việc với Google Sheets
+gspread==6.1.1             # API chính
+google-auth==2.29.0        # Xác thực cho gspread
+google-auth-oauthlib==1.2.0  # OAuth flow (thường do gspread phụ thuộc)
+
+# Gọi Gemini AI
+google-generativeai==0.7.0  # Phiên bản ổn định (>=0.7)
+
+# Đọc biến môi trường từ .env
+python-dotenv==1.0.1
