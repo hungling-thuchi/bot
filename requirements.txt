@@ -1,5 +1,5 @@
 # Thư viện chính cho Discord Bot
-discord.py==2.3.2          # Bao gồm discord.ext.commands
+discord.py[speed]          # Bao gồm discord.ext.commands
 
 # Làm việc với Google Sheets
 gspread==6.1.1             # API chính
